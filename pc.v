@@ -2,16 +2,14 @@
 
 module PC
   (
+   input jump,br, 
    input 	 clk,
-   assign 	 PCinput = {jump, br},
-  
    input [15:0]  br_add,
    input [15:0]  jump_add,
    output [15:0] pc
    );
-
-
-   reg [15:0] pc;
+assign PCinput = {jump, br};
+reg [15:0] pc;
    initial begin
        pc = {16{1'b0}};
    end
@@ -30,6 +28,6 @@ module PC
 	 default: begin
 	     pc = {16{1'b0}};
 	 end
-       endcase // case (PCinput)
-   end // always @ (posedge clk)
-endmodule // PC
+       endcase
+   end 
+endmodule 
