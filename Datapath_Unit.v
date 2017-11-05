@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module DataPath_Unit(
+module Datapath_Unit(
  input clk,
  input jump,beq,mem_read,mem_write,alu_src,reg_dst,mem_to_reg,reg_write,bne,
  input[1:0] alu_op,
