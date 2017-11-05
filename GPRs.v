@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module reg_file(
+module GPRs(
     input clk,
     input enable,
     input [2:0] read_addr1,
