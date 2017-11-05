@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 
 
-module RISC(
+module Risc_16_bit(
  input clk
 );
  wire jump,bne,beq,mem_read,mem_write,alu_src,reg_dst,mem_to_reg,reg_write;
