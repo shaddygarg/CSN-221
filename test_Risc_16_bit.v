@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 `include "Parameter.v"
 
-module Risc_16_bit;
+module test_Risc_16_bit;
 
  // Inputs
  reg clk;
