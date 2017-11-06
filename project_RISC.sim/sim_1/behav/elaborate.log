@@ -1,0 +1,26 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: H:/Vivaldo/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto fc778b6ac7ec40e5864da8d3b8e5d765 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot test_Risc_16_bit_behav xil_defaultlib.test_Risc_16_bit xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 3 differs from formal bit length 4 for port ALU_Cnt [C:/Users/AU009TX/Documents/CSN/CSN-221-master/Datapath_Unit.v:62]
+WARNING: [VRFC 10-278] actual bit length 3 differs from formal bit length 4 for port alu_control [C:/Users/AU009TX/Documents/CSN/CSN-221-master/Datapath_Unit.v:66]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Instruction_Memory.v" Line 3. Module Instruction_Memory doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Data_Memory.v" Line 3. Module Data_Memory doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Instruction_Memory.v" Line 3. Module Instruction_Memory doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Data_Memory.v" Line 3. Module Data_Memory doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Instruction_Memory
+Compiling module xil_defaultlib.GPRs
+Compiling module xil_defaultlib.alu_control
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.Data_Memory
+Compiling module xil_defaultlib.Datapath_Unit
+Compiling module xil_defaultlib.Control_Unit
+Compiling module xil_defaultlib.Risc_16_bit
+Compiling module xil_defaultlib.test_Risc_16_bit
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot test_Risc_16_bit_behav

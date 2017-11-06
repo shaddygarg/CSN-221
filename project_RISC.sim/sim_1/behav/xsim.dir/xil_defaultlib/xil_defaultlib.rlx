@@ -1,0 +1,15 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+C:/Users/AU009TX/Documents/CSN/CSN-221-master/ALU.v,1509961388,verilog,,,,ALU,,,,,,,,
+C:/Users/AU009TX/Documents/CSN/CSN-221-master/Control_Unit.v,1509833640,verilog,,,,Control_Unit,,,,,,,,
+C:/Users/AU009TX/Documents/CSN/CSN-221-master/Data_Memory.v,1509962517,verilog,,,C:/Users/AU009TX/Documents/CSN/CSN-221-master/Parameter.v,Data_Memory,,,,,,,,
+C:/Users/AU009TX/Documents/CSN/CSN-221-master/Datapath_Unit.v,1509833640,verilog,,,,Datapath_Unit,,,,,,,,
+C:/Users/AU009TX/Documents/CSN/CSN-221-master/GPRs.v,1509963284,verilog,,,,GPRs,,,,,,,,
+C:/Users/AU009TX/Documents/CSN/CSN-221-master/Instruction_Memory.v,1509962508,verilog,,,C:/Users/AU009TX/Documents/CSN/CSN-221-master/Parameter.v,Instruction_Memory,,,,,,,,
+C:/Users/AU009TX/Documents/CSN/CSN-221-master/Parameter.v,1509962358,verilog,,,,,,,,,,,,
+C:/Users/AU009TX/Documents/CSN/CSN-221-master/Risc_16_bit.v,1509964926,verilog,,,,Risc_16_bit,,,,,,,,
+C:/Users/AU009TX/Documents/CSN/CSN-221-master/alu_control.v,1509961256,verilog,,,,alu_control,,,,,,,,
+C:/Users/AU009TX/Documents/CSN/CSN-221-master/test_Risc_16_bit.v,1509833640,verilog,,,C:/Users/AU009TX/Documents/CSN/CSN-221-master/Parameter.v,test_Risc_16_bit,,,,,,,,
+H:/project_RISC/project_RISC.sim/sim_1/behav/glbl.v,1485222234,verilog,,,,glbl,,,,,,,,

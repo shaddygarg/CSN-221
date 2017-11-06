@@ -1,0 +1,31 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Instruction_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Data_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/AU009TX/Documents/CSN/CSN-221-master/alu_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/AU009TX/Documents/CSN/CSN-221-master/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/AU009TX/Documents/CSN/CSN-221-master/GPRs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GPRs
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Datapath_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Datapath_Unit
+INFO: [VRFC 10-2458] undeclared symbol bne_control, assumed default net type wire [C:/Users/AU009TX/Documents/CSN/CSN-221-master/Datapath_Unit.v:72]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Control_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Risc_16_bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Risc_16_bit
+INFO: [VRFC 10-2458] undeclared symbol ran, assumed default net type wire [C:/Users/AU009TX/Documents/CSN/CSN-221-master/Risc_16_bit.v:9]
+INFO: [VRFC 10-2458] undeclared symbol jump, assumed default net type wire [C:/Users/AU009TX/Documents/CSN/CSN-221-master/Risc_16_bit.v:14]
+INFO: [VRFC 10-2458] undeclared symbol beq, assumed default net type wire [C:/Users/AU009TX/Documents/CSN/CSN-221-master/Risc_16_bit.v:15]
+INFO: [VRFC 10-2458] undeclared symbol mem_read, assumed default net type wire [C:/Users/AU009TX/Documents/CSN/CSN-221-master/Risc_16_bit.v:16]
+INFO: [VRFC 10-2458] undeclared symbol mem_write, assumed default net type wire [C:/Users/AU009TX/Documents/CSN/CSN-221-master/Risc_16_bit.v:17]
+INFO: [VRFC 10-2458] undeclared symbol alu_src, assumed default net type wire [C:/Users/AU009TX/Documents/CSN/CSN-221-master/Risc_16_bit.v:18]
+INFO: [VRFC 10-2458] undeclared symbol reg_dst, assumed default net type wire [C:/Users/AU009TX/Documents/CSN/CSN-221-master/Risc_16_bit.v:19]
+INFO: [VRFC 10-2458] undeclared symbol mem_to_reg, assumed default net type wire [C:/Users/AU009TX/Documents/CSN/CSN-221-master/Risc_16_bit.v:20]
+INFO: [VRFC 10-2458] undeclared symbol reg_write, assumed default net type wire [C:/Users/AU009TX/Documents/CSN/CSN-221-master/Risc_16_bit.v:21]
+INFO: [VRFC 10-2458] undeclared symbol bne, assumed default net type wire [C:/Users/AU009TX/Documents/CSN/CSN-221-master/Risc_16_bit.v:22]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/AU009TX/Documents/CSN/CSN-221-master/test_Risc_16_bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_Risc_16_bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/project_RISC/project_RISC.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

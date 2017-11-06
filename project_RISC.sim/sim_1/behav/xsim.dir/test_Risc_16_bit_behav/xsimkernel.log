@@ -1,0 +1,7 @@
+Running: xsim.dir/test_Risc_16_bit_behav/xsimk.exe -simmode gui -wdb test_Risc_16_bit_behav.wdb -simrunnum 0 -socket 50963
+Design successfully loaded
+Design Loading Memory Usage: 8412 KB (Peak: 8412 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 9352 KB (Peak: 9352 KB)
+Simulation CPU Usage: 15 ms

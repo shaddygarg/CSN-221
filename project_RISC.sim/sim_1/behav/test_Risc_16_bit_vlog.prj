@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Instruction_Memory.v"
+verilog xil_defaultlib  "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Data_Memory.v"
+verilog xil_defaultlib  "C:/Users/AU009TX/Documents/CSN/CSN-221-master/alu_control.v"
+verilog xil_defaultlib  "C:/Users/AU009TX/Documents/CSN/CSN-221-master/ALU.v"
+verilog xil_defaultlib  "C:/Users/AU009TX/Documents/CSN/CSN-221-master/GPRs.v"
+verilog xil_defaultlib  "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Datapath_Unit.v"
+verilog xil_defaultlib  "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Control_Unit.v"
+verilog xil_defaultlib  "C:/Users/AU009TX/Documents/CSN/CSN-221-master/Risc_16_bit.v"
+verilog xil_defaultlib  "C:/Users/AU009TX/Documents/CSN/CSN-221-master/test_Risc_16_bit.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
