@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 //This module is the control unit of the RISC processor
-module ControlUnit(
+module Control_Unit(
     input[3:0] opcode,
     output reg[1:0] alu_op,
     output reg reg_dst,alu_src,mem_read,mem_write,mem_to_reg,reg_write,jump,bne,beq

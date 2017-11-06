@@ -1,6 +1,6 @@
 `include "Parameter.v"
 
-module InstructionMemory(
+module Instruction_Memory(
  input[15:0] pc,
  output[15:0] instruction
 );
